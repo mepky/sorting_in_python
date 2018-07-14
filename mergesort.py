@@ -1,3 +1,9 @@
+#Author
+#praveen kumar
+#Indian institute of information technology kalyani
+
+
+
 def merge_sort(l):
     ret = []
     if( len(l) == 1):
