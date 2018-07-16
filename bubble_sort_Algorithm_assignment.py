@@ -1,4 +1,5 @@
-
+#praveen kumar
+#Indian institute of information technology kalyani
 #python_3.6.4
 #bubble_sort algorithm
 A=list(map(int,input("enter the input array:").split(" ")))
